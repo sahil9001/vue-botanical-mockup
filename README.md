@@ -1,4 +1,5 @@
-# testui
+# Vue Botanical Frontend 
+![image](https://github.com/sahil9001/vue-botanical-mockup/blob/main/src/assets/HomePage/thumbnail.jpg)
 
 ## Project setup
 ```
