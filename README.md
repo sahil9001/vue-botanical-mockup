@@ -1,4 +1,4 @@
-# Vue Botanical Frontend 
+# Vue Botanical Frontend (https://vue-botanical-mockup.vercel.app)
 ![image](https://github.com/sahil9001/vue-botanical-mockup/blob/main/src/assets/HomePage/thumbnail.jpg)
 
 ## Project setup
