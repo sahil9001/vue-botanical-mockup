@@ -1,6 +1,8 @@
 # Vue Botanical Frontend (https://vue-botanical-mockup.vercel.app)
 ![image](https://github.com/sahil9001/vue-botanical-mockup/blob/main/src/assets/HomePage/thumbnail.jpg)
 
+# Actual Website 
+![](https://github.com/sahil9001/vue-botanical-mockup/blob/main/src/assets/vue-botanical-mockup.vercel.app_.png)
 ## Project setup
 ```
 npm install
